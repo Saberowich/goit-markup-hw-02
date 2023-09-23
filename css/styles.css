@@ -133,7 +133,7 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.team-list {
+.team-list-item {
   background-color: #ffffff;
 }
 .team-list-subtitle {
